@@ -1,5 +1,5 @@
 (() => {
-  const KEY = "475690"; /*Your open AI key here*/
+  const KEY = ""; /*Your open AI key here*/
 const types = ["single", "double", "multi", "antonym", "synonym"];
 const questionPrompt = [
   "\nThe answer choices are as follows. Please choose only the letter associated with the answer and please keep it to one character: \n",
